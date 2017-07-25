@@ -16,7 +16,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+RottlaenderViewTool::Renderer.copyright 'Alex Rottlaender', 'All Rights Reserved'
+```
 
 ## Development
 
