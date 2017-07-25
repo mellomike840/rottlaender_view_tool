@@ -13,7 +13,6 @@ Gem::Specification.new do |spec|
   spec.description   = %q{Provides generated HTML data for rails applications.}
   spec.homepage      = "https://devcamp.com"
 
-
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
     f.match(%r{^(test|spec|features)/})
   end
